@@ -1,6 +1,6 @@
 # Docker Nginx Flask Project Setup
 
-Just Run: https://github.com/yn55/name_change.git
+Just Run: 
 
 docker compose up --build to get it to run and go to locahost to see the site.
 
